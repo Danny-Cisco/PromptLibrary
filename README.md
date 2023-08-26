@@ -1,3 +1,3 @@
 # PromptLibrary
 
-An experiment to see if get hub is the best place to save my prompts
+An experiment to see if github is the best place to save my prompts
