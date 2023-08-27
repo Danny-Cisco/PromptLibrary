@@ -1,3 +1,5 @@
 I would like you to output this concept in DOT format for GraphVIZ.
 Use as many features of GraphVIZ as possible to help me visualise the comcept clearly.
-ie i prefer the use of color-coded solid rectangles so that similar sub-categories within the diagram can be clearly distinguished.
+ie i prefer the use of color-coded solid rectangles (but not lightgreen) so that similar sub-categories within the diagram can be clearly distinguished.
+if the textlabel is long, insert newline characters to keep the chart compact without losing information detail.
+
